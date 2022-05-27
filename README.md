@@ -34,9 +34,6 @@ cd /usr/share/wfuzz/wordlist/
 
 ## Disclaimer
 
-```
-Core and Wordlists
+# ⚠ Legal Disclaimer
 
-Its developed with the intension of using this tool only for educational purpose and cyber security! 
-To stay safe and change the IP for more security!
-```
+This project is made for educational and ethical testing purposes only. Usage of this tool for attacking targets without prior mutual consent is illegal. Developers assume no liability and are not responsible for any misuse or damage caused by this tool.
